@@ -31,6 +31,6 @@ Contributions are always welcome! 🤝 Please feel free to open a pull request o
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-This line is added in order to get a hands on practise with merging conflicts. 
+Manish added this line for his learning process
 
-Again adding a line for merging conflicts.
+Manish proposing another merge conflict 
